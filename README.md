@@ -16,6 +16,6 @@ Re-ordered CSS to follow HTML structure.
 Alt attributes got added to images.
 
 
-Website Link: file:///C:/Users/moses/OneDrive%20-%20Middlesex%20College/Desktop/Rutgers%20code/Module%201%20Challenge/Improve%20Challenge%201/Improved%20Html.html
+
 
   
